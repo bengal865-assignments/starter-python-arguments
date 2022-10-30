@@ -36,7 +36,7 @@ print(musician)
 # Christina is 16 and a junior at Kalkaska High School.
 # Christina is a junior at Kalkaska High School.
 
-# Your three arguments in your function call should be first name, age, and school.  Your parameter
-# list will contain three parameters; use age as your optional PARAMETER.
+# Your three arguments in your function call should be first name, age, and school.  Your PARAMETER
+# LIST will contain three parameters; use age as your optional PARAMETER.
 
 # For help with optional arguments, see pages 138 - 139 in your Python Crash Course book.
