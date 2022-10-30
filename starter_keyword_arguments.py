@@ -30,4 +30,4 @@ describe_person(first_name='elizabeth', last_name='carlson', hair_color='light b
 # In the second function call, the order of your keyword arguments should NOT match the order of
 # the parameters in your parameter list
 
-# Remember to enclose your docstring in a pair of triple quotation marks
+# Remember to enclose your docstring for your function in a pair of triple quotation marks
