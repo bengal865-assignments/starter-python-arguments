@@ -23,4 +23,8 @@ describe_person(first_name='elizabeth', last_name='carlson', hair_color='light b
 # Call the function twice and use different names and cities for each function call
 # Make sure Python correctly capitalizes the names and cities (even if the user enters the names
 # and cities in lowercase)
+# In the first function call, the order of your keyword arguments should match the order of the
+# parameters in your parameter list
+# In the second function call, the order of your keyword arguments should NOT match the order of
+# the parameters in your parameter list
 # Remember to enclose your docstring in a pair of triple quotation marks
